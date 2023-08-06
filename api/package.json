@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "iisnode-env": "^1.0.3",
+    "mssql": "^9.1.2",
+    "nodemailer": "^6.9.4",
+    "sequelize": "^6.32.1"
+  }
+}
